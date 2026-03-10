@@ -19,3 +19,4 @@ This project involves the creation of a Power BI dashboard to evaluate global sa
 3. **Temporal Analysis:** Utilize the **Date Slider** to narrow the analysis to specific months or quarters.
 4. **Performance Deep-Dive:** Interact with the **Top Sales Person** bar chart to see the specific product mix and regional distribution of any individual representative.
 5. **Comparative Analysis:** Use the **Product by Country** chart to compare regional performance across different product lines simultaneously.
+![sales](https://github.com/user-attachments/assets/16588c0e-5ec9-45cf-9d5a-53b2f477bdd4)
